@@ -1,0 +1,8 @@
+kaggle-environments
+numpy
+json5 
+pathlib  
+torch
+torchvision
+tqdm
+scikit-learn
